@@ -1,17 +1,16 @@
 # 📔**Netflix Userbase**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Drawio <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
-Source Dataset : SMKDEV <br>
+Visualization : Notebook<br>
+Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
 ## Background Project :
 Karena .
 
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+qwerty
 
 ## Goals :
 maneuhejrk

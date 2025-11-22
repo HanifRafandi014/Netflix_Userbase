@@ -28,5 +28,11 @@ maneuhejrk
 
 ## Data Exploration :
 
-# 📂 Stage 2: Business Recommendation
+# 📂 STAGE 2: Data Preparation
+
+# 📂 STAGE 3: Modelling
+
+# 📂 STAGE 4: Evaluation
+
+# 📂 STAGE 5: Deployment
 
